@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classoppt_1_1EnvironmentChange.html" title="oppt::EnvironmentChange" alt="" coords="5,56,179,83"/>
+<area shape="rect" id="node2" href="$classoppt_1_1ObstacleAddedChange.html" title="oppt::ObstacleAddedChange" alt="" coords="236,5,425,32"/>
+<area shape="rect" id="node3" href="$classoppt_1_1ObstaclePoseChange.html" title="oppt::ObstaclePoseChange" alt="" coords="239,56,422,83"/>
+<area shape="rect" id="node4" href="$classoppt_1_1ObstacleRemovedChange.html" title="oppt::ObstacleRemovedChange" alt="" coords="227,107,435,133"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="oppt::EnvironmentChange" name="oppt::EnvironmentChange">
+<area shape="rect" id="node2" href="$classoppt_1_1ObstacleAddedChange.html" title="oppt::ObstacleAddedChange" alt="" coords="5,80,195,107"/>
+<area shape="rect" id="node3" href="$classoppt_1_1ObstaclePoseChange.html" title="oppt::ObstaclePoseChange" alt="" coords="219,80,402,107"/>
+<area shape="rect" id="node4" href="$classoppt_1_1ObstacleRemovedChange.html" title="oppt::ObstacleRemovedChange" alt="" coords="427,80,635,107"/>
+</map>

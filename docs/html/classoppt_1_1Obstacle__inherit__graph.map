@@ -1,0 +1,7 @@
+<map id="oppt::Obstacle" name="oppt::Obstacle">
+<area shape="rect" id="node2" href="$classoppt_1_1ObstacleImpl.html" title="oppt::ObstacleImpl" alt="" coords="257,80,389,107"/>
+<area shape="rect" id="node3" href="$classoppt_1_1BoxObstacle.html" title="oppt::BoxObstacle" alt="" coords="5,155,136,181"/>
+<area shape="rect" id="node4" href="$classoppt_1_1CylinderObstacle.html" title="oppt::CylinderObstacle" alt="" coords="160,155,315,181"/>
+<area shape="rect" id="node5" href="$classoppt_1_1MeshObstacle.html" title="oppt::MeshObstacle" alt="" coords="339,155,477,181"/>
+<area shape="rect" id="node6" href="$classoppt_1_1SphereObstacle.html" title="oppt::SphereObstacle" alt="" coords="502,155,650,181"/>
+</map>
